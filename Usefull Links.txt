@@ -1,0 +1,19 @@
+https://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/
+
+https://crunchify.com/java-spring-boot-tutorials/
+
+https://o7planning.org/en/11681/spring-boot-and-jsp-tutorial
+
+https://spring.io/guides/gs/spring-boot/
+
+
+
+//A very nice explanation to fix basic error
+http://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernatehttps://www.journaldev.com/13830/spring-boot-cannot-determine-embedded-database-driver-class-for-database-type-none
+https://www.baeldung.com/spring-boot-custom-auto-configuration
+
+
+
+//using MySql in spring-boot
+http://blog.netgloo.com/2014/10/27/using-mysql-in-spring-boot-via-spring-data-jpa-and-hibernate/
+
