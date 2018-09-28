@@ -11,3 +11,4 @@ https://www.thoughts-on-java.org/hibernate-tips-map-bidirectional-many-one-assoc
 
 
 Where is Dammi???
+:O
